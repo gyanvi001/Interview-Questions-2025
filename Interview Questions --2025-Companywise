@@ -1154,7 +1154,7 @@ Exp---17yrs SRE
 ***10) How do you respond when:
   a) the master node goes down?
   b) a worker/slave node goes down?
-11) How do you configure a VPC for high availability?
+***11) How do you configure a VPC for high availability?
 12) Have you worked on scripting? if so which tool ? explain what you have implemented? 
 13) Have you written Terraform code for deployments? If yes, can you explain the implementation?
 14) Can you explain your hands-on experience with Docker?
